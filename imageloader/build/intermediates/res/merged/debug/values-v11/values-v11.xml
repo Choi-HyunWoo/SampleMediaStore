@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Tacademy/AndroidStudioProjects/SampleMediaStore/imageloader/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="ProgressBarStyle" parent="@android:style/Widget.Holo.ProgressBar.Horizontal"/>
+</resources>
